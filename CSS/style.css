@@ -790,4 +790,7 @@ footer {
   .close-modal:hover {
     background: darkred;
   }
-  
+
+  .headnav ul li a.active {
+    background:linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 97%, rgb(255, 255, 255) 98%, #ffffff 100%);
+}
