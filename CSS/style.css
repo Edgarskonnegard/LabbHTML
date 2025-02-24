@@ -428,7 +428,7 @@ footer {
     -o-transform: scale(1.7);
 }
 .history-container {
-    background: rgb(197, 127, 127);
+    background: rgb(255, 255, 255);
     margin-top: 0vh;
     margin-bottom: 10vh; /* Anpassa så att main börjar efter hero */
      /* Gör så att det täcker hela skärmen */
@@ -579,7 +579,7 @@ footer {
     font-size: 4rem;;
 }
 .history a.year {
-    color: hsl(0, 0%, 60%);
+    color: hsl(0, 0%, 50%);
     font-size: 1rem;
 }
 .project-image {
